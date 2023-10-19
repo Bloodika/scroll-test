@@ -1,0 +1,31 @@
+.flex-grid {
+  max-width: 100%;
+  width: 100%;
+}
+
+.content {
+  padding-right: 0;
+  padding-bottom: 0;
+}
+
+.right-panel {
+  background-color: #f4f4f4;
+  height: 51rem;
+  overflow-y: auto;
+}
+
+.search-form {
+  display: block;
+  height: 39.4rem;
+  overflow: auto;
+}
+
+
+.search-form-label-and-toggle-tip {
+  display: flex;
+  max-width: 96%;
+}
+
+label {
+  width: 100%;
+}
